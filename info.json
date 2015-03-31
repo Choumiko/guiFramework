@@ -1,0 +1,9 @@
+{
+  "name": "guiFramework",
+  "version": "0.0.1",
+  "title": "GUI Framework",
+  "author": "Choumiko",
+  "contact": "www.factorioforums.com",
+  "description": "Framework for managing mod guis",
+  "dependencies": ["base >= 0.11.11"]
+} 
